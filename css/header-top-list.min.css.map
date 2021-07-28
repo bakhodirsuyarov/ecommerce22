@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,iBAAiB,CAAA;EACf,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,IAAI;CACjB",
-    "sources": [
-        "../scss/blocks/header-top-list.scss"
-    ],
-    "names": [],
-    "file": "header-top-list.min.css"
-}
